@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/App.css';
 import { useState, useEffect } from 'react';
-import { Component } from 'react/cjs/react.production.min';
+
 const App = () => {
   const[name, setName] = useState("");
   const[id, setId] = useState(1)
