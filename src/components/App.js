@@ -12,7 +12,7 @@ const App = () => {
     })
   },[id])
   const changeInput=(e)=>{
-    setId(e.terget.value)
+    setid(e.terget.value)
   } 
  
  
